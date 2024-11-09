@@ -1,4 +1,4 @@
-Here’s a sample README file for your Git repository "Digital Image Processing" with the specified details.
+
 
 ---
 
@@ -8,24 +8,24 @@ This repository contains a collection of Python programs and Jupyter notebooks f
 
 ## Repository Overview
 
-| File Name                                 | Description                                                   | Last Commit      |
-|-------------------------------------------|---------------------------------------------------------------|------------------|
-| `Bitwise_operations_openCV.py`            | Performs bitwise operations on images using OpenCV.           | Last year       |
-| `Capturing_and_saving_video.py`           | Captures and saves video streams using OpenCV.                | Last year       |
-| `Finding_and_drawing_Contours.py`         | Detects and draws contours on images.                         | Last year       |
-| `Image_Thresholding_Algorithms.ipynb`     | Jupyter notebook demonstrating thresholding techniques.       | Last year       |
-| `Morphological_operations.py`             | Applies morphological transformations to images.              | Last year       |
-| `Motion_Detection.py`                     | Detects motion in video streams.                              | Last year       |
-| `ObjectDetection_using_HSV_color_tracking_inVideos.py` | Tracks objects in videos using HSV color range.  | Last year       |
-| `Object_detection_using_color_mask.py`    | Detects objects using color masking.                          | Last year       |
-| `Practice!.py`                            | Miscellaneous practice scripts.                               | Last year       |
-| `Reading_Writing_image.py`                | Reads and writes images using OpenCV.                         | Last year       |
-| `Smoothing_And_Blurring_openCV.py`        | Demonstrates image smoothing and blurring techniques.         | Last year       |
-| `conversion.py`                           | Contains image conversion utilities.                          | Last year       |
-| `labelling.py`                            | Implements labeling techniques on images.                     | Last year       |
-| `object_detection_tracking_color_masking.py` | Tracks and detects objects using color masks.            | Last year       |
-| `practice.py`                             | Additional practice and experimental code.                    | Last year       |
-| `threasholding_Techniques.py`             | Applies various thresholding techniques.                      | Last year       |
+| File Name                                 | Description                                                   |
+|-------------------------------------------|---------------------------------------------------------------|
+| `Bitwise_operations_openCV.py`            | Performs bitwise operations on images using OpenCV.           | 
+| `Capturing_and_saving_video.py`           | Captures and saves video streams using OpenCV.                | 
+| `Finding_and_drawing_Contours.py`         | Detects and draws contours on images.                         | 
+| `Image_Thresholding_Algorithms.ipynb`     | Jupyter notebook demonstrating thresholding techniques.       | 
+| `Morphological_operations.py`             | Applies morphological transformations to images.              |
+| `Motion_Detection.py`                     | Detects motion in video streams.                              | 
+| `ObjectDetection_using_HSV_color_tracking_inVideos.py` | Tracks objects in videos using HSV color range.  |
+| `Object_detection_using_color_mask.py`    | Detects objects using color masking.                          | 
+| `Practice!.py`                            | Miscellaneous practice scripts.                               |
+| `Reading_Writing_image.py`                | Reads and writes images using OpenCV.                         | 
+| `Smoothing_And_Blurring_openCV.py`        | Demonstrates image smoothing and blurring techniques.         |
+| `conversion.py`                           | Contains image conversion utilities.                          | 
+| `labelling.py`                            | Implements labeling techniques on images.                     | 
+| `object_detection_tracking_color_masking.py` | Tracks and detects objects using color masks.              | 
+| `practice.py`                             | Additional practice and experimental code.                    | 
+| `threasholding_Techniques.py`             | Applies various thresholding techniques.                      |
 
 ## Getting Started
 
